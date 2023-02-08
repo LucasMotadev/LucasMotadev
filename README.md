@@ -1,4 +1,11 @@
-### Hi there 👋
+# Olá 👋
+Meu nome é Lucas Mota, sou desenvolvedor de software, graduado em Sistemas de Informação. Atualmente estou trabalhando com PHP/Laravel, JavaScript, TypeScript, NodeJS e VueJS.
+
+### Contato
+- 📫 lucasmota.dev@gmail.com
+<a href="https://www.linkedin.com/in/lucas-mota-ba5a9b1a5/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>
+</a>
 
 <!--
 **LucasMotadev/LucasMotadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
